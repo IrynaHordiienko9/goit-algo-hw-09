@@ -1,6 +1,6 @@
 #### Онлайн-демо
 
-https://7668a2a57501d74237.gradio.live/
+https://68082859755b25d667.gradio.live/
 
 
 
